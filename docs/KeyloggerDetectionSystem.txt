@@ -1,0 +1,46 @@
+Keylogger Detection System
+
+Focus: Build a program to detect unusual keyboard/mouse behavior and prevent it.
+
+A keylogger is a type of malware that secretly records everything a person type (passwords, messages, etc.).
+A Keylogger Detection System is a program that watches the keyboard and mouse activity to detect unusual or suspicious behavior, indicating that a keylogger might be running.
+
+
+Basic Workflow
+
+1. Monitor Input Events
+
+2. The program keeps track of keyboard and mouse activity.
+
+Example: How often keys are pressed, typing speed, or mouse movement patterns.
+
+3. Detect Suspicious Activity
+
+4. Compare the activity with normal user behavior.
+
+Examples of suspicious patterns:
+
+	* Typing happens when the user is idle
+	* Sudden rapid keystrokes
+	* Hidden processes reading keystrokes
+
+5. Check Running Processes
+
+Look for processes/programs that access keyboard input or clipboard secretly.
+Some keyloggers run in the background without showing a window.
+
+
+6. Alert the User
+
+If unusual behavior is detected, the system raises an alert:
+	* Pop-up message
+	* Log entry
+
+7. terminate suspicious process
+
+8. Block the suspicious process or restrict access to input devices.
+
+9. Log all detected events for further analysis.
+
+what's New
+Decoy Input Injection: Create a system that periodically injects fake keystrokes at the driver level and monitors if they get captured or logged anywhere they shouldn't be.

@@ -1,0 +1,28 @@
+Suspicious Startup Entries:
+- org.gnome.SettingsDaemon.MediaKeys.desktop: /etc/xdg/autostart/org.gnome.SettingsDaemon.MediaKeys.desktop
+- org.gnome.SettingsDaemon.Housekeeping.desktop: /etc/xdg/autostart/org.gnome.SettingsDaemon.Housekeeping.desktop
+- gnome-initial-setup-copy-worker.desktop: /etc/xdg/autostart/gnome-initial-setup-copy-worker.desktop
+- org.gnome.SettingsDaemon.Rfkill.desktop: /etc/xdg/autostart/org.gnome.SettingsDaemon.Rfkill.desktop
+- org.gnome.SettingsDaemon.Wwan.desktop: /etc/xdg/autostart/org.gnome.SettingsDaemon.Wwan.desktop
+- org.gnome.SettingsDaemon.ScreensaverProxy.desktop: /etc/xdg/autostart/org.gnome.SettingsDaemon.ScreensaverProxy.desktop
+- org.gnome.SettingsDaemon.Smartcard.desktop: /etc/xdg/autostart/org.gnome.SettingsDaemon.Smartcard.desktop
+- org.gnome.SettingsDaemon.UsbProtection.desktop: /etc/xdg/autostart/org.gnome.SettingsDaemon.UsbProtection.desktop
+- org.gnome.SettingsDaemon.XSettings.desktop: /etc/xdg/autostart/org.gnome.SettingsDaemon.XSettings.desktop
+- org.gnome.SettingsDaemon.Wacom.desktop: /etc/xdg/autostart/org.gnome.SettingsDaemon.Wacom.desktop
+- gnome-initial-setup-first-login.desktop: /etc/xdg/autostart/gnome-initial-setup-first-login.desktop
+- org.gnome.SettingsDaemon.Power.desktop: /etc/xdg/autostart/org.gnome.SettingsDaemon.Power.desktop
+- org.gnome.SettingsDaemon.Sharing.desktop: /etc/xdg/autostart/org.gnome.SettingsDaemon.Sharing.desktop
+- org.gnome.SettingsDaemon.Keyboard.desktop: /etc/xdg/autostart/org.gnome.SettingsDaemon.Keyboard.desktop
+- org.gnome.SettingsDaemon.Datetime.desktop: /etc/xdg/autostart/org.gnome.SettingsDaemon.Datetime.desktop
+- org.gnome.SettingsDaemon.Color.desktop: /etc/xdg/autostart/org.gnome.SettingsDaemon.Color.desktop
+- org.gnome.SettingsDaemon.A11ySettings.desktop: /etc/xdg/autostart/org.gnome.SettingsDaemon.A11ySettings.desktop
+- org.gnome.SettingsDaemon.Sound.desktop: /etc/xdg/autostart/org.gnome.SettingsDaemon.Sound.desktop
+- org.gnome.SettingsDaemon.PrintNotifications.desktop: /etc/xdg/autostart/org.gnome.SettingsDaemon.PrintNotifications.desktop
+- tracker-miner-fs-3.desktop: /etc/xdg/autostart/tracker-miner-fs-3.desktop
+- localsearch-3.desktop: /etc/xdg/autostart/localsearch-3.desktop
+
+Suspicious Running Processes:
+- PID 5597: zed-editor at /home/bittu/.local/zed.app/libexec/zed-editor
+- PID 5620: zed-editor at /home/bittu/.local/zed.app/libexec/zed-editor
+- PID 5732: github-mcp-server at /home/bittu/.local/share/zed/extensions/work/mcp-server-github/github-mcp-server-v0.17.0/github-mcp-server
+- PID 6841: ruff at /home/bittu/.local/share/zed/languages/ruff/ruff-0.13.2/ruff-x86_64-unknown-linux-gnu/ruff
